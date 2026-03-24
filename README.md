@@ -40,3 +40,5 @@ MVC mimarisi ile yapılandırılmış
 JavaFX ve Scene Builder kullanılarak geliştirilmiştir.
 Arayüz Scene Builder ile .fxml dosyaları şeklinde tasarlanmıştır.
 Görsel tasarım ile mantık kodları ayrıştırılarak temiz bir yapı kurulmuştur.
+
+<img width="919" height="924" alt="image" src="https://github.com/user-attachments/assets/356b4ab7-c224-4392-83bc-f265b49a812e" />
